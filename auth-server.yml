@@ -5,7 +5,7 @@ auth-server:
   message: "Hello from auth-server 1"
   contactDetails:
     name: "auth-server"
-    email: "auth-server@localhost"
+    email: "{cipher}886ee6989623d1565205c0602b8e02921729997e0894e56ebc8ee1cd2f07e893654e4adc8293788f601e4b539b4c4434"
     onCallSupport:
       -(011)1234589
       -(011)1234580
