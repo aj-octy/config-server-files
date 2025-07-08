@@ -4,7 +4,7 @@ build:
 auth-server:
   message: "Hello from auth-server"
   contactDetails:
-    name: "auth-server production auto refresh1"
+    name: "auth-server production auto refresh12"
     email: "{cipher}6eebafc333aca1973ac14f3fe69f91b4e3a438deb0937c990865d31bd50e531db1ae50931b2b0594383c42a194750eae"
     onCallSupport:
       -(011)1234589
